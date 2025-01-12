@@ -19,8 +19,9 @@ Active participant in professional and industry forums.
 Member of several cybersecurity and software engineering organizations.
 Contributor to open-source platforms fostering innovation and inclusivity.
 
-🔗 Let's Connect!
-LinkedIn: linkedin.com/in/rafi-dandushaik
+🔗 Let's Connect with me on LinkedIn!
+[rafidandushaik](https://linkedin.com/in/rafi-dandushaik)
+
 Open to collaborations, mentoring, and consulting opportunities.
 
 <!---
