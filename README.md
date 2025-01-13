@@ -1,7 +1,7 @@
 🌟 Rafi Dandushaik's Profile README
 
 👋 Hi there!
-I’m Rafi Dandushaik, a seasoned software engineer based in Germany, currently navigating the intersections of cybersecurity, AI, and strategic business leadership. 
+I’m Rafi Dandushaik, a seasoned software engineer based working at AC IAS GmbH in Germany, currently navigating the intersections of cybersecurity, AI, and strategic business leadership. 
 With over a decade of experience, I specialize in engine control development, control strategies, and regulatory standards, having worked with leading control systems from BOSCH and Airbus and for dotcom enterprises developed frameworks for YAHOO! and Infosys.
 
 🚀 Professional Focus
